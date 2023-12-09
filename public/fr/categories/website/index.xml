@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>website on Reporter Hugo</title>
+    <link>https://demo.gethugothemes.com/reporter/site/fr/categories/website/</link>
+    <description>Recent content in website on Reporter Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Developed By [Gethugothemes](https://gethugothemes.com/)</copyright>
+    <lastBuildDate>Sat, 09 Jan 2021 11:07:10 +0600</lastBuildDate>
+    <atom:link href="https://demo.gethugothemes.com/reporter/site/fr/categories/website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Secure Your Lifestyle</title>
+      <link>https://demo.gethugothemes.com/reporter/site/fr/articles/post-6/</link>
+      <pubDate>Sat, 09 Jan 2021 11:07:10 +0600</pubDate>
+      <guid>https://demo.gethugothemes.com/reporter/site/fr/articles/post-6/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+    </item>
+    <item>
+      <title>Portugal and France Now Allow Unvaccinated Tourists</title>
+      <link>https://demo.gethugothemes.com/reporter/site/fr/articles/travel/post-4/</link>
+      <pubDate>Mon, 01 Jun 2020 11:07:10 +0600</pubDate>
+      <guid>https://demo.gethugothemes.com/reporter/site/fr/articles/travel/post-4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+    </item>
+    <item>
+      <title>No Image specified</title>
+      <link>https://demo.gethugothemes.com/reporter/site/fr/articles/cruises/post-3/</link>
+      <pubDate>Sun, 12 Apr 2020 11:07:10 +0600</pubDate>
+      <guid>https://demo.gethugothemes.com/reporter/site/fr/articles/cruises/post-3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+    </item>
+    <item>
+      <title>Record Utra Smooth Video</title>
+      <link>https://demo.gethugothemes.com/reporter/site/fr/articles/post-3/</link>
+      <pubDate>Thu, 09 Jan 2020 11:07:10 +0600</pubDate>
+      <guid>https://demo.gethugothemes.com/reporter/site/fr/articles/post-3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+    </item>
+  </channel>
+</rss>

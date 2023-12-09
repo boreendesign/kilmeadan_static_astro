@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lifestyle on Reporter Hugo</title>
+    <link>https://demo.gethugothemes.com/reporter/site/categories/lifestyle/</link>
+    <description>Recent content in lifestyle on Reporter Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Developed By [Gethugothemes](https://gethugothemes.com/)</copyright>
+    <lastBuildDate>Wed, 02 Jun 2021 11:07:10 +0600</lastBuildDate>
+    <atom:link href="https://demo.gethugothemes.com/reporter/site/categories/lifestyle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What To Do in Houston: Ideas For Your Visit</title>
+      <link>https://demo.gethugothemes.com/reporter/site/articles/lifestyle/post-2/</link>
+      <pubDate>Wed, 02 Jun 2021 11:07:10 +0600</pubDate>
+      <guid>https://demo.gethugothemes.com/reporter/site/articles/lifestyle/post-2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+    </item>
+    <item>
+      <title>An Experiential Guide to Explore this Kingdom</title>
+      <link>https://demo.gethugothemes.com/reporter/site/articles/lifestyle/post-1/</link>
+      <pubDate>Wed, 03 Jun 2020 11:07:10 +0600</pubDate>
+      <guid>https://demo.gethugothemes.com/reporter/site/articles/lifestyle/post-1/</guid>
+      <description>Heading Here is example of hedings. You can use this heading by following markdownify rules. For example: use # for heading 1 and use ###### for heading 6.</description>
+    </item>
+  </channel>
+</rss>
