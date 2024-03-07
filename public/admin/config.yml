@@ -27,6 +27,7 @@ collections:
           label: "Category", 
           name: "categories", 
           widget: "select",  
+          options: ["restaurant","things-to-do"],
           multiple: true
       } # Field Featured Image
       - { label: "Draft", name: "draft", widget: "boolean",  default: true} # Field Featured Image
