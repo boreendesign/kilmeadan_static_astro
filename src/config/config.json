@@ -1,0 +1,30 @@
+{
+  "site": {
+    "title": "Kilmacthomas",
+    "base_url": "https://kilmacthomas.com",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "200",
+    "logo_height": "34",
+    "logo_text": "Bookworm Light",
+    "logo_background": "Blue"
+  },
+
+  "settings": {
+    "pagination": 5,
+    "summary_length": 100
+  },
+
+  "metadata": {
+    "meta_author": "Themefisher",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Bookworm Light Astro Blog Template"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+  }
+}

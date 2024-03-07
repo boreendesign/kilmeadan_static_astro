@@ -1,0 +1,30 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Restaurants",
+      "url": "/categories/restaurant"
+    },
+    {
+      "name": "Things to Do",
+      "url": "/categories/things-to-do"
+    },            
+    {
+      "name": "About",
+      "url": "/about"
+    }
+  ],
+  "footer": [
+    {
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "name": "Privacy Policy",
+      "url": "/privacy-policy"
+    }
+  ]
+}
