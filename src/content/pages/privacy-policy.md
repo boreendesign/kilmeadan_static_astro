@@ -4,9 +4,9 @@ description: "this is meta description"
 draft: false
 ---
 
-Privacy Policy for kilmacthomas.com
+Privacy Policy for kilmeadan.com
 
-At kilmacthomas.com, we value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your data in accordance with applicable data protection laws.
+At kilmeadan.com, we value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your data in accordance with applicable data protection laws.
 
 Personal Data Collection
 
