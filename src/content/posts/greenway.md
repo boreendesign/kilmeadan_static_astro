@@ -2,7 +2,7 @@
 title: Discover the spectacular Greenway
 date: 2022-04-04T05:00:00.000Z
 description: meta description
-image: /images/posts/greenway-image.png
+image: /images/uploads/screenshot-2024-03-07-at-16.44.54.png
 categories:
   - things-to-do
 tags:
