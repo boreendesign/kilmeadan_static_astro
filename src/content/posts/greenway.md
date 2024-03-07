@@ -17,7 +17,7 @@ Bikes can be rented from Waterford City, Dungarvan, and Kilmacthomas.
 
 Did you know that the Greenway has a connection link to the village of Kilmeadan. The entry can be found as below.
 
-![](/images/uploads/screenshot-2024-03-07-at-16.44.54.png)
+![](/images/uploads/copy-of-untitled-5-.png)
 
 Stage 1: Waterford City to Killoteran (7.5km)
 Stage 2: Killoteran to Kilmeadan (3km)
