@@ -23,6 +23,10 @@
       "url": "/about"
     },
     {
+      "name": "Admin",
+      "url": "/admin"
+    },    
+    {
       "name": "Privacy Policy",
       "url": "/privacy-policy"
     }
