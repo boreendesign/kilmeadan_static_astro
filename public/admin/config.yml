@@ -28,6 +28,6 @@ collections:
           name: "categories", 
           widget: "select",  
           options: ["things-to-do", "restaurant"],
-          multiple: false
+          multiple: true
       } # Field Featured Image
       - { label: "Draft", name: "draft", widget: "boolean",  default: true} # Field Featured Image
