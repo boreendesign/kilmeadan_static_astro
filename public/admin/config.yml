@@ -21,8 +21,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" } # Field Title
       - { label: "Body", name: "body", widget: "markdown" } 
+      - { label: "Date of writing", name: "date", widget: "datetime" } # Field Date of writing      
       - { label: "Meta Description", name: "description", widget: "markdown" } # Field Description
-      - { label: "Date of writing", name: "date", widget: "DateTime" } # Field Date of writing
       - { label: "Featured image", name: "image", widget: "image" } # Field Featured Image
       - { label: "Category", name: "categories", widget: "select",  options: ["things-to-do", "restaurant"]} # Field Featured Image
       - { label: "Draft", name: "draft", widget: "boolean",  default: true} # Field Featured Image
