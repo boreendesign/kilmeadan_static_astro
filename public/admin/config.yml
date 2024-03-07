@@ -27,7 +27,6 @@ collections:
           label: "Category", 
           name: "categories", 
           widget: "list",  
-          - {label: Quote, name: quote, widget: string}
-          - {label: Author, name: author, widget: string }
+          multiple: true
       } # Field Featured Image
       - { label: "Draft", name: "draft", widget: "boolean",  default: true} # Field Featured Image
