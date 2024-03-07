@@ -27,8 +27,7 @@ collections:
           label: "Category", 
           name: "categories", 
           widget: "list",  
-          fields:
-            - {label: Quote, name: quote, widget: string, default: "Everything is awesome!"}
-            - {label: Author, name: author, widget: string }
+          - {label: Quote, name: quote, widget: string, default: "Everything is awesome!"}
+          - {label: Author, name: author, widget: string }
       } # Field Featured Image
       - { label: "Draft", name: "draft", widget: "boolean",  default: true} # Field Featured Image
