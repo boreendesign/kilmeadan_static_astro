@@ -23,5 +23,11 @@ collections:
       - { label: "Date of writing", name: "date", widget: "datetime" } # Field Date of writing      
       - { label: "Meta Description", name: "description", widget: "markdown" } # Field Description
       - { label: "Featured image", name: "image", widget: "image" } # Field Featured Image
-      - { label: "Category", name: "categories", widget: "select",  options: ["things-to-do", "restaurant"],multiple: false} # Field Featured Image
+      - { 
+          label: "Category", 
+          name: "categories", 
+          widget: "select",  
+          options: ["things-to-do", "restaurant"],
+          multiple: false
+      } # Field Featured Image
       - { label: "Draft", name: "draft", widget: "boolean",  default: true} # Field Featured Image
