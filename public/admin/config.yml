@@ -6,11 +6,10 @@ backend: # The two following lines need to be indented
 media_folder: "public/images/uploads" # Exact path where we store the uploaded media
 public_folder: "/images/uploads" # We do not need to specify the /public part as all the files from it are stored in the root directory after the build step
 
-site_url: https://kilmacthomas.com/
-display_url: https://kilmacthomas.com/
+site_url: https://kilmeadan.com/
+display_url: https://kilmeadan.com/
 local_backend: true
 slug: { { slug } } # The URL should be the name of the title of the post/document
-
 
 collections:
   - label: posts # Label used in the UI for the collection
