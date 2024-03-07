@@ -1,15 +1,10 @@
 ---
-draft: false
-authors:
-  - Mark Dinn
 title: The Sweep Bar & Restaurant
 date: 2022-04-04T05:00:00.000Z
-tags:
-  - eat
-  - restaurant
 description: The sweep bar in kilmeadan
 image: /images/uploads/copy-of-untitled-1-.png
 categories: restaurant
+draft: false
 ---
 Dating back to 1837, The Sweep Bar & Restaurant in Kilmeaden, Co. Waterford, has been a cornerstone landmark welcoming weary travelers with a warm Irish embrace ("ceol agus craic" - music and fun) for generations. Its distinctive thatched roof makes it instantly recognizable and a beloved part of the local landscape.
 
