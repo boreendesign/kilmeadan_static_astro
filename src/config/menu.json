@@ -1,10 +1,6 @@
 {
   "main": [
     {
-      "name": "Home",
-      "url": "/"
-    },
-    {
       "name": "Eat & Drink",
       "url": "/categories/restaurant"
     },
