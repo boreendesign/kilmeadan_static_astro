@@ -5,11 +5,11 @@
       "url": "/"
     },
     {
-      "name": "Restaurants",
+      "name": "Eat & Drink",
       "url": "/categories/restaurant"
     },
     {
-      "name": "Eat & Drink",
+      "name": "Things To Do",
       "url": "/categories/things-to-do"
     }, 
     {
