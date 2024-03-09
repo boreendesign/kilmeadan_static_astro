@@ -9,7 +9,7 @@
       "url": "/categories/restaurant"
     },
     {
-      "name": "Things to Do",
+      "name": "Eat & Drink",
       "url": "/categories/things-to-do"
     }, 
     {
@@ -17,8 +17,8 @@
       "url": "/greenway/"
     },                
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Community",
+      "url": "/community"
     }
   ],
   "footer": [
