@@ -11,7 +11,11 @@
     {
       "name": "Things to Do",
       "url": "/categories/things-to-do"
-    },            
+    }, 
+    {
+      "name": "Greenway Access",
+      "url": "/greenway/"
+    },                
     {
       "name": "About",
       "url": "/about"
