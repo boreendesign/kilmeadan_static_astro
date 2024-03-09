@@ -1,7 +1,7 @@
 ---
 title: "Kilmeadan - Connection to the City of Waterford"
 meta_title: "About Us"
-image: "/images/author.png"
+image: "/images/kilmeadan_map.png"
 draft: false
 
 what_i_do:
