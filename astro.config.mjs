@@ -9,36 +9,62 @@ import remarkCollapse from "remark-collapse";
 import remarkToc from "remark-toc";
 import config from "./src/config/config.json";
 
-import min from "astro-min";
-
 // https://astro.build/config
 export default defineConfig({
   site: config.site.base_url ? config.site.base_url : "http://examplesite.com",
   base: config.site.base_path ? config.site.base_path : "/",
   trailingSlash: config.site.trailing_slash ? "always" : "never",
   image: {
-    service: squooshImageService()
+    service: squooshImageService(),
   },
-  integrations: [react(), sitemap(), tailwind({
-    config: {
-      applyBaseStyles: false
-    }
-  }), partytown({
-    // Adds dataLayer.push as a forwarding-event.
-    config: {
-      forward: ["dataLayer.push"]
-    }
-  }), AutoImport({
-    imports: ["@/shortcodes/Button", "@/shortcodes/Accordion", "@/shortcodes/Notice", "@/shortcodes/Video", "@/shortcodes/Youtube", "@/shortcodes/Tabs", "@/shortcodes/Tab"]
-  }), mdx(), min()],
+  integrations: [
+    react(),
+    sitemap(),
+    tailwind({
+      config: {
+        applyBaseStyles: false,
+      },
+    }),
+    partytown({
+      // Adds dataLayer.push as a forwarding-event.
+      config: {
+        forward: ["dataLayer.push"],
+      },
+    }),    
+    AutoImport({
+      imports: [
+        "@/shortcodes/Button",
+        "@/shortcodes/Accordion",
+        "@/shortcodes/Notice",
+        "@/shortcodes/Video",
+        "@/shortcodes/Youtube",
+        "@/shortcodes/Tabs",
+        "@/shortcodes/Tab",
+      ],
+    }),
+    mdx(),
+    (await import("astro-compress")).default({
+			CSS: true,
+			HTML: false,
+			Image: true,
+			JavaScript: true,
+			SVG: false,
+		})      
+  ],
   markdown: {
-    remarkPlugins: [remarkToc, [remarkCollapse, {
-      test: "Table of contents"
-    }]],
+    remarkPlugins: [
+      remarkToc,
+      [
+        remarkCollapse,
+        {
+          test: "Table of contents",
+        },
+      ],
+    ],
     shikiConfig: {
       theme: "one-dark-pro",
-      wrap: true
+      wrap: true,
     },
-    extendDefaultPlugins: true
-  }
+    extendDefaultPlugins: true,
+  },
 });
