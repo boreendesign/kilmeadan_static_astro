@@ -3,7 +3,7 @@ title: "Redevelopment of the Kilmeaden Cheese Factory: What’s Coming—and Why
   Matters for Kilmeaden"
 date: 2025-09-09T09:41:02.855Z
 description: "*The former Kilmeaden Cheese Factory in Waterford is set for a
-  €multi-million redevelopment featuring homes, a village centre, technology
+  multi-million redevelopment featuring homes, a village centre, technology
   park, and 40 MW solar farm—bringing jobs, services, and sustainable growth
   back to Kilmeaden.*"
 image: /images/uploads/screenshot-2025-09-09-at-11.35.47.png
@@ -19,15 +19,15 @@ draft: false
 * The 108.79-hectare site at **Blacknock and Adamstown**, adjacent to the R680 Regional Road, is set for a major transformation.
 * Key components of the plan include:
 
-*  A **new village centre** with a gym, café, health centre, pharmacy, offices, a community centre, supermarket with garden centre, and two commercial buildings.Four apartment blocks offering **132 homes** (24 one-bed units, 108 two-bed units)
+  * A **new village centre** with a gym, café, health centre, pharmacy, offices, a community centre, supermarket with garden centre, and two commercial buildings.Four apartment blocks offering **132 homes** (24 one-bed units, 108 two-bed units)  
 
-  A **technology park** featuring five buildings for offices, light industry, R&D, plus an ICT data facility with modular data halls powered by a central energy unit using 16 gas turbines.
+  * A **technology park** featuring five buildings for offices, light industry, R&D, plus an ICT data facility with modular data halls powered by a central energy unit using 16 gas turbines.
 
-  A **40 MW solar farm**, comprising over 104,000 photovoltaic panels, with transformers, tracks, and security infrastructure.
+  * A **40 MW solar farm**, comprising over 104,000 photovoltaic panels, with transformers, tracks, and security infrastructure.
 
-  Supporting infrastructure: new access road onto the R680, pedestrian and cycle links, a bridge over a watercourse, stormwater management (attenuation ponds, swales), and a wastewater treatment plant.
+  * Supporting infrastructure: new access road onto the R680, pedestrian and cycle links, a bridge over a watercourse, stormwater management (attenuation ponds, swales), and a wastewater treatment plant.
 
-  Thorough environmental safeguards, including an **Environmental Impact Assessment (EIAR)** and a **Natura Impact Statement (NIS)**.
+  * Thorough environmental safeguards, including an **Environmental Impact Assessment (EIAR)** and a **Natura Impact Statement (NIS)**.
 
   The site notice was erected on 8 September 2025, marking the official start of the planning process.
 
